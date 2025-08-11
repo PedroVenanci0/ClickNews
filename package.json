@@ -1,0 +1,24 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "📰 ClickNews\r O ClickNews é um site inspirado no TabNews, onde os usuários podem compartilhar e discutir conteúdos de forma colaborativa. O objetivo é proporcionar uma plataforma leve e funcional para a publicação e interação com postagens.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+    },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PedroVenanci0/ClickNews.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PedroVenanci0/ClickNews/issues"
+  },
+  "homepage": "https://github.com/PedroVenanci0/ClickNews#readme",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}

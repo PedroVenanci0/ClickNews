@@ -1,0 +1,28 @@
+# Dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# Next.js build output
+/.next
+
+# Next.js cache
+.next/cache
+
+# Production build
+/build
+/dist
+
+# Static export
+/out
+
+# Miscellaneous
+.DS_Store
+*.pem
+
+# Environment variables
+.env
+.env*.local
+
+# VSCode specific settings
+/.vscode
